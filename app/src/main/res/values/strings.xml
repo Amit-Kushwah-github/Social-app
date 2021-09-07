@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Social</string>
+    <string name="addbutton">addButton</string>
+    <string name="what_do_you_want_to_share">what do you want to share?</string>
+    <string name="post">POST</string>
+    <string name="social">Social</string>
+    <string name="log_out">Log out</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_out">Sign out</string>
+    <string name="be_social">Be Social</string>
+</resources>
